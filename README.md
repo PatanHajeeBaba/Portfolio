@@ -47,5 +47,5 @@ git clone [https://github.com/PatanHajeeBaba/Portfolio.git](https://github.com/P
 ## 🤝 Connect with Me
 I am always open to collaborating on new projects or discussing technical challenges. Feel free to reach out!
 
-* **Portfolio**: hajeebaba-portfolio.netlify.app
-* **GitHub**: @PatanHajeeBaba
+* **Portfolio**: [https://hajeebaba-portfolio.netlify.app/](https://hajeebaba-portfolio.netlify.app/)
+* **GitHub**: [@PatanHajeeBaba](https://github.com/PatanHajeeBaba)
