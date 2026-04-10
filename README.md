@@ -32,17 +32,27 @@ This portfolio is built using modern web technologies to ensure performance, res
 To get a local copy up and running, follow these simple steps:
 
 ### 1. Clone the Repository
-bash```
-
-git clone [https://github.com/PatanHajeeBaba/Portfolio.git](https://github.com/PatanHajeeBaba/Portfolio.git) 
+```bash
+   git clone https://github.com/PatanHajeeBaba/Rock-Paper-Scissor-game.git
+```
 
 ### 2. Navigate to the Directory
-* cd Portfolio
+ ```bash
+ cd Portfolio
+```
 ### 3. Install Dependencies
 * Make sure you have Node.js installed. Then run:
-* npm install
+```bash
+  npm install
+```
 ### 4. Run the Development Server
-* npm start or  npm run dev
+```bash 
+npm start
+```
+###     (or)  
+```bash
+npm run dev
+```
 
 ## 🤝 Connect with Me
 I am always open to collaborating on new projects or discussing technical challenges. Feel free to reach out!
